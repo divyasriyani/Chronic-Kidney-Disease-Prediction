@@ -1,6 +1,5 @@
 # Chronic-Kidney-Disease-Prediction
 Machine learning model to predict chronic kidney disease using patient medical data.  A data science project that analyzes health parameters to predict the likelihood of CKD. Chronic Kidney Disease prediction system using Python, scikit-learn, and machine learning algorithms.
-# Chronic Kidney Disease Detection
 
 This project predicts the likelihood of Chronic Kidney Disease (CKD) using **machine learning algorithms**.  
 It analyzes patient medical data (blood pressure, blood glucose, serum creatinine, hemoglobin, etc.) to identify early signs of CKD and assist healthcare professionals in decision-making.
